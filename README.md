@@ -27,4 +27,4 @@ This project is designed to serve as the official digital platform for music rel
 
 ## 👑 Vision
 
-TM (The Miles) combines music, storytelling, and digital creativity to build a unique artistic experience online.
+TM (The Miles) combines music, storytelling, and digital creativity to build a unique artistic experience online. 
